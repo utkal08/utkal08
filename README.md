@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utkal Vats</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkal08&label=Profile%20views&color=0e75b6&style=flat" alt="utkal08" /> </p>
 
-- 🔭 I’m currently working on [INVENTREE](https://github.com/utkal08/hackathon.git)
+- 🔭 I’m currently working on [Predine](https://github.com/utkal08/hackathon.git)
 
-- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Machine Learning**
+
+- 💬 Ask me about **Predine**
 
 - 📫 How to reach me **utkalvat4@gmail.com**
 
